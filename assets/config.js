@@ -7,7 +7,7 @@ window.SITE_CONFIG = {
   /* Google Sheets link.
      Paste the Web App URL from Apps Script here (it ends with /exec).
      While it is empty, everything still works, but results stay on the student's device. */
-  sheetEndpoint: '',
+  sheetEndpoint: 'https://script.google.com/macros/s/AKfycbwMNcKub8KCMXs3VYRwG_Je-vGGsrPLHL7BwcjdzoPt3tUX35u7v920XV7YIv_nBUIT3g/exec',
 
   /* Our Miro board for the organisational part and group work */
   miroBoard: 'https://miro.com/app/board/uXjVEb_aDBE=/'
