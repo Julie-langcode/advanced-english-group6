@@ -139,8 +139,8 @@
 /* compact exam bar on phones */
 @media (max-width:600px){
   .xbar .row{gap:8px;padding-block:7px}
-  .xbar .xwho{max-width:34vw;font-size:15px}
-  .vchip{padding:5px 8px;font-size:12px}
+  .xbar .xwho{max-width:42vw;font-size:15px}
+  .vchip{display:none}
   .timer{padding:6px 10px;font-size:14px}
   .prog{display:none}
   .xbar .btn{min-height:36px;padding:7px 14px;font-size:14px;margin-left:auto}

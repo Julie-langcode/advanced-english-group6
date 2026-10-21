@@ -96,7 +96,7 @@
           '<ol class="rules">' +
             '<li>Books, dictionaries, translators and AI tools are closed. Keep your camera on.</li>' +
             '<li>The timer starts when you press <b>Start</b> and does not stop if you close the page.</li>' +
-            '<li>In Listening you watch only the part of the video shown on the yellow card, <b>twice</b>.</li>' +
+            '<li>In Listening you watch only the part of the video shown on the highlighted card, <b>twice</b>.</li>' +
             '<li>Leaving this tab is recorded and sent to your teacher.</li>' +
             '<li>Press <b>Submit</b> when you finish. At 00:00 the test is sent automatically.</li>' +
           '</ol>' +
