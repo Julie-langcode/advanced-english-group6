@@ -245,3 +245,8 @@ footer .wrap{padding-block:24px;font-size:14px;color:var(--muted);display:flex;f
 .callout h3{font:800 18px var(--f-display)}
 .callout p{margin:0}
 @media (prefers-reduced-motion:reduce){.map a:hover,.lessons li a:hover{transform:none}}
+
+/* ---------- modules on the home page ---------- */
+.sec.past .lessons li a,.sec.past .lessons li .soon{background:color-mix(in srgb,var(--surface) 70%,var(--bg))}
+.lessons .tag.done{background:var(--sage-f);color:var(--primary-ink)}
+.lessons li .soon.done{opacity:1;border-style:solid}
