@@ -13,9 +13,9 @@ window.COURSE = {
         { n: 4, slug: '04-objects-and-identity', status: 'ready',
           title: 'Objects and identity', topic: 'Cleft sentences · household objects · Foreign objects · a lecture on identity · essay',
           pages: 'SB pp. 27–31, 168–169' },
-        { n: 5, slug: '05-relationships-people', status: 'soon',
-          title: 'Relationships: people', topic: 'Describing people and giving impressions',
-          pages: 'SB pp. 14–19' },
+        { n: 5, slug: '05-relationships-people', status: 'ready',
+          title: 'Relationships: people', topic: 'Describing people · chunks about character · giving your impression · project launch',
+          pages: 'SB pp. 14–17' },
         { n: 6, slug: '06-relationships-kinds', status: 'soon',
           title: 'Relationships: kinds', topic: 'Kinds of relationships · sharing problems · would',
           pages: 'SB pp. 20–21' }
