@@ -16,8 +16,8 @@ window.COURSE = {
         { n: 5, slug: '05-relationships-people', status: 'ready',
           title: 'Relationships: people', topic: 'Describing people · chunks about character · giving your impression · project launch',
           pages: 'SB pp. 14–17' },
-        { n: 6, slug: '06-relationships-kinds', status: 'soon',
-          title: 'Relationships: kinds', topic: 'Kinds of relationships · sharing problems · would',
+        { n: 6, slug: '06-relationships-kinds', status: 'ready',
+          title: 'Relationships: kinds', topic: 'Kinds of relationships · Toby: mixed messages · would · talking through problems · project consultation',
           pages: 'SB pp. 20–21' }
       ] },
     { id: 1, name: 'Module 1', state: 'completed', meta: 'Lessons stay open for review',
