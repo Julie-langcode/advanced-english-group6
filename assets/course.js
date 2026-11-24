@@ -18,7 +18,10 @@ window.COURSE = {
           pages: 'SB pp. 14–17' },
         { n: 6, slug: '06-relationships-kinds', status: 'ready',
           title: 'Relationships: kinds', topic: 'Kinds of relationships · Toby: mixed messages · would · talking through problems · project consultation',
-          pages: 'SB pp. 20–21' }
+          pages: 'SB pp. 20–21' },
+        { n: 7, slug: '07-reading-lonely-connected', status: 'ready',
+          title: 'Reading: Lonely and connected', topic: 'Extra reading · a real article on friendship and loneliness · chunks · critical reading',
+          pages: 'KU News, Nov 2025' }
       ] },
     { id: 1, name: 'Module 1', state: 'completed', meta: 'Lessons stay open for review',
       lessons: [
