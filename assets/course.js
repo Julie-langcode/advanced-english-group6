@@ -21,7 +21,10 @@ window.COURSE = {
           pages: 'SB pp. 20–21' },
         { n: 7, slug: '07-reading-lonely-connected', status: 'ready',
           title: 'Reading: Lonely and connected', topic: 'Extra reading · a real article on friendship and loneliness · chunks · critical reading',
-          pages: 'KU News, Nov 2025' }
+          pages: 'KU News, Nov 2025' },
+        { n: 8, slug: '08-conflict-arguments', status: 'ready',
+          title: 'Conflict: clear the air', topic: 'Arguments and discussions · two arguments (Audio 17) · defending and excusing · wish and if only',
+          pages: 'SB pp. 50–53' }
       ] },
     { id: 1, name: 'Module 1', state: 'completed', meta: 'Lessons stay open for review',
       lessons: [
